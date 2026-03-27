@@ -1,7 +1,6 @@
 {
-  "version": "2.0.0",
-  "version_code": 20,
-  "apk_url": "https://sushil.infinityfreeapp.com/Photo/PocketNews_v2.0.0.apk",
-  "changelog": "Patro tab (Tithimiti + Rashifal + Events), Vegetable prices, Auto update, Custom themes, Auto dark mode, Reading time, Copy link, eSewa donate, Online user guide, Radio sorting",
+  "version": "2.2.0",
+  "apk_url": "https://sushil.infinityfreeapp.com/Photo/PocketNews_v2.2.0.apk",
+  "changelog": "Favorite radio, Article scraping fix, Summary/Translation fix, Keyboard fix",
   "force_update": false
 }
