@@ -3,6 +3,6 @@
   "version_code": 23,
   "release_date": "2026-04-02",
   "min_version_code": 10,
-  "download_url": "https://sushil.infinityfreeapp.com/Photo/PocketNews.apk",
+  "download_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v2.3.0.apk",
   "changelog": "Home tab redesigned — clean dashboard\nNepal Markets as tap widgets (Gold, Forex, NEPSE, Fuel, Vegetables)\nCurrency Converter — 20 currencies\nNepali Date + Tithi from quiktoolbox API\nGoogle Translate — no API key needed, 10 languages\nChunk-based translation with retry & progress\nAI Model selector — Gemini 2.0/2.5/1.5 Flash & Pro\nAI Companion Chat — Girlfriend / Boyfriend mode\nSeparate Home & News tabs\nArticle hash/nene garbage removed\nNav cleanup — Markets & Patro tabs removed"
 }

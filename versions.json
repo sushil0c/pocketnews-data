@@ -5,7 +5,7 @@
       "version": "2.3.0",
       "version_code": 23,
       "date": "2026-04-02",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_2.3.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v2.3.0.apk",
       "size": "2.4 MB",
       "changelog": "Home tab redesigned — clean dashboard\nNepal Markets as tap widgets (Gold, Forex, NEPSE, Fuel, Vegetables)\nCurrency Converter — 20 currencies\nNepali Date + Tithi from quiktoolbox API\nGoogle Translate — no API key needed, 10 languages\nChunk-based translation with retry & progress\nAI Model selector — Gemini 2.0/2.5/1.5 Flash & Pro\nAI Companion Chat — Girlfriend / Boyfriend mode\nSeparate Home & News tabs\nArticle hash/nene garbage removed\nNav cleanup — Markets & Patro tabs removed"
     },
@@ -13,7 +13,7 @@
   "version": "2.2.0",
       "version_code": 21,
       "date": "2026-03-27",
-  "apk_url": "https://sushil.infinityfreeapp.com/Photo/PocketNews_v2.2.0.apk",
+  "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v2.2.0.apk",
 "size": "2.2 MB",
   "changelog": "Favorite radio, Article scraping fix, Summary/Translation fix, Keyboard fix",
   "force_update": false
@@ -22,7 +22,7 @@
       "version": "2.0.0",
       "version_code": 20,
       "date": "2026-03-22",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_2.0.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v2.0.0.apk",
       "size": "2.1 MB",
       "changelog": "Patro tab (Tithimiti, Rashifal, Events)\nVegetable & Fruit prices (Kalimati)\nAuto update checker\nCustom theme creator\nAuto dark mode (9 PM - 6 AM)\nReading time estimate\nCopy link on long press\nDuplicate & garbage content filter\nNewest news first\neSewa donate button\nOnline user guide\nRadio alphabetical sort"
     },
@@ -30,7 +30,7 @@
       "version": "1.3.0",
       "version_code": 13,
       "date": "2026-03-18",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_1.3.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v1.3.0.apk",
       "size": "2.0 MB",
       "changelog": "Custom themes\nAuto dark mode\nReading time\nCopy link\nVegetable prices\nNepal Patro tab\nRadio sorting\neSewa donate"
     },
@@ -38,7 +38,7 @@
       "version": "1.2.0",
       "version_code": 12,
       "date": "2026-03-10",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_1.2.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v1.2.0.apk",
       "size": "1.9 MB",
       "changelog": "Markets tab (Gold, Forex, NEPSE, Fuel)\nSleep timer for Radio\nShare article as card\nNo internet error screen\nArticle publish time\nOnboarding walkthrough\nDark status bar"
     },
@@ -46,7 +46,7 @@
       "version": "1.1.0",
       "version_code": 11,
       "date": "2026-03-01",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_1.1.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v1.1.0.apk",
       "size": "1.7 MB",
       "changelog": "Radio inline tab with full player\nBack button stops radio\nManage Radio Stations\nFirst launch welcome screen\nUser Guide WebView\nCustom RSS feeds\nAccessibility support"
     },
@@ -54,7 +54,7 @@
       "version": "1.0.0",
       "version_code": 10,
       "date": "2026-02-20",
-      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_1.0.0.apk",
+      "apk_url": "https://sushil.infinityfreeapp.com/pocketnews/apk/PocketNews_v1.0.0.apk",
       "size": "1.5 MB",
       "changelog": "Initial release\nNews feed (RSS)\nAI Summary (Gemini)\nLive Radio\nOffline reading\nBookmarks & History\nThemes\nNotifications"
     }
